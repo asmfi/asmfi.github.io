@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asmfi.csgad.com/FIP/sitemap.xml.gz
